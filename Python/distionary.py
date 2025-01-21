@@ -1,0 +1,15 @@
+name={
+    1144:"Ammara",
+     1145:"Amna",
+      1146:"Aqsa",
+       1148:"Aroob",
+       1190:["ali","maheen"]
+}
+print(name.items())
+print(name.keys())
+print(name.update({1148:"Aman"}))
+print(name)
+print(name[1144])
+print(name)
+name[1190][1]="ayesha"
+print(name)
