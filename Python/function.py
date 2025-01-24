@@ -35,17 +35,17 @@
 # time. 
 
 
-def function(list,name):
-    list1=[]
-    for i in list:
-        w=i.strip()
-        if(w!=name):
-            list1.append(w)
-    return list1
+# def function(list,name):
+#     list1=[]
+#     for i in list:
+#         w=i.strip()
+#         if(w!=name):
+#             list1.append(w)
+#     return list1
             
-list=["ammara","asma"]
-name=function(list,"asma")
-print(name)
+# list=["ammara","asma"]
+# name=function(list,"asma")
+# print(name)
 
 
 
